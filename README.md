@@ -30,3 +30,7 @@ This JavaScript-based game is a simple yet engaging number-matching challenge de
 
 This game is a great way to sharpen your quick-thinking skills while having fun. It's an ideal project for beginners to intermediate JavaScript developers looking to learn more about DOM manipulation, event handling, and simple game logic.
 ![Screenshot 2024-08-19 114230](https://github.com/user-attachments/assets/6f2b06e4-9888-4b67-9fb0-a7fd03c27a59)
+
+
+**Wanna play this Game**:
+- Go to this link --- https://dharam011.github.io/Bubble-Game/
