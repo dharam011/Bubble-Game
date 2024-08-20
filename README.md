@@ -1,4 +1,4 @@
-# Bubble-Game
+# Responsive  Bubble-Game
 ### Game Description 
 
 This JavaScript-based game is a simple yet engaging number-matching challenge designed to test your reflexes and accuracy. The game involves a dynamic interface where bubbles containing random numbers (from 0 to 9) continuously populate the screen. Your objective is to click on the bubble that matches a target number displayed at the top of the screen before the timer runs out.
@@ -30,7 +30,9 @@ This JavaScript-based game is a simple yet engaging number-matching challenge de
 
 This game is a great way to sharpen your quick-thinking skills while having fun. It's an ideal project for beginners to intermediate JavaScript developers looking to learn more about DOM manipulation, event handling, and simple game logic.
 ![Screenshot 2024-08-19 114230](https://github.com/user-attachments/assets/6f2b06e4-9888-4b67-9fb0-a7fd03c27a59)
+![Screenshot 2024-08-21 014852](https://github.com/user-attachments/assets/c4fec73a-f10b-4eda-adba-950ce7473a90)
 
 
 **Wanna play this Game**:
+
 - Go to this link --- https://dharam011.github.io/Bubble-Game/
