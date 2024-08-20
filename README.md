@@ -6,7 +6,7 @@ This JavaScript-based game is a simple yet engaging number-matching challenge de
 ### Key Features:
 
 1. **Dynamic Bubble Generation**:
-   - The game screen is populated with 120 bubbles, each containing a randomly generated number between 0 and 9. These bubbles are generated every time the game starts or the target number is successfully matched.
+   - The game screen is populated with 150 bubbles, each containing a randomly generated number between 0 and 9. These bubbles are generated every time the game starts or the target number is successfully matched.
 
 2. **Target Matching**:
    - A target number is randomly generated and displayed at the top of the screen. Your goal is to find and click the bubble that matches this number. If you successfully match the number, your score increases by 10 points.
